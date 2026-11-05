@@ -14,6 +14,7 @@ A collection of Jupyter notebooks for learning and practicing the core concepts 
 
 ### Prerequisites
 
+
 - Python 3.8 or higher
 - pip
 - Jupyter Notebook or JupyterLab
